@@ -1,6 +1,9 @@
 # Skill and Resume Analyzer
 
+![Home Page](screenshot/home_page.png)
+
 A web application that analyzes a candidate's resume against a job description and provides a **skill match percentage**, highlighting missing or extra skills. Built using **React** (frontend) and **Flask** (backend).
+
 
 ---
 
