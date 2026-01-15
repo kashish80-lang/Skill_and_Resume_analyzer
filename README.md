@@ -27,15 +27,25 @@ A web application that analyzes a candidate's resume against a job description a
 ## Project Structure
 
 Skill_and_Resume_analyzer/
+
 ├── frontend/ # React frontend
+
 │ ├── src/
+
 │ ├── package.json
+
 │ └── public/
+
 ├── backend/ # Flask backend
+
 │ ├── app.py
+
 │ ├── requirements.txt
+
 │ └── utils.py # helper functions for skill extraction
+
 ├── uploads/ # folder to store uploaded resumes
+
 └── README.md
 
 ---
